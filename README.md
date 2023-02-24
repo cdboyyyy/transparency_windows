@@ -1,17 +1,28 @@
-# Installation:
-To use this code, you will need to install the following Python packages:
+# Transperent Windows
 
-# Packages
-## pywinauto,
-###### pywin32
+This project transperent windows in windows system.
 
-You can install these packages using pip, the Python package manager. Open a terminal or command prompt and enter the following commands:
+## Installation
 
-# Copy code
-###### pip install pywinauto
-###### pip install pywin32
+To use this project, you will need to have Python installed on your system. You can download Python from the [official website](https://www.python.org/downloads/).
 
-Once these packages are installed, you should be able to run the code without any issues.
+You will also need to install the following packages:
 
-# Usage
-Run this on windows environment
+- pywinauto
+- pywin32
+
+You can install these packages using the following command:
+- pip install pywinauto
+- pip install pywin32
+
+Alternatively, you can install the packages from the requirements.txt
+
+
+## Usage
+To use this project, do the following:
+
+1. Clone the repository to your local machine.
+2. Open a terminal or command prompt and navigate to the project directory.
+3. Run the following command to run the script: python transperent.py
+
+
