@@ -2,6 +2,6 @@
 
 
 
-
-# pip install pywinauto
-# pip install pywin32
+need to install these packages 
+pip install pywinauto
+pip install pywin32
