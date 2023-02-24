@@ -2,7 +2,7 @@
 To use this code, you will need to install the following Python packages:
 
 # Packages
-pywinauto
+pywinauto,
 pywin32
 
 You can install these packages using pip, the Python package manager. Open a terminal or command prompt and enter the following commands:
